@@ -1,12 +1,12 @@
 
 public class CurrencyConverter extends javax.swing.JFrame {
-double US_Dollar = 1.31;
+double US_Dollar = 1;
 double Nigerian_Naira = 476.57;
 double Brazilian_Real = 5.47;
 double Canadian_Dollar = 1.71;
 double Kenyan_Shilling = 132.53;
 double Indonesian_Rupiah = 19554.94;
-double Indian_Rupee = 95.21;
+double Indian_Rupee = 82.56;
 double Philippine_Pisco = 71.17;
 double Pakistani_Rupee = 162.74;
 
